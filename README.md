@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 
 <div>
-<img src="https://img.shields.io/badge/42SEOUL-ffffff?style=flat-square&logo=42&logoColor=000000"/>
